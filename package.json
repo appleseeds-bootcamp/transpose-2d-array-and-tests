@@ -1,0 +1,15 @@
+{
+  "name": "ex2-transpose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transpose.js",
+  "scripts": {
+    "test": "mocha transpose.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
